@@ -4,7 +4,7 @@
 ## Obiettivo
 
 L'obiettivo di questo progetto è analizzare le edizioni del Festival di Sanremo dal 1951 al 2023 per individuare pattern, ricorrenze e anomalie. Il focus principale è stato capire se esiste una tendenza alla ripetitività tra **presentatori, vincitori e autori**, partendo dalla provocazione:  
-**“Sanfemo: le solite facce?”**
+**“Sanremo: le solite facce?”**
 
 ---
 
